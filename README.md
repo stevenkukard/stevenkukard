@@ -7,7 +7,7 @@ Solutions Architect
 I design data and AI solutions focused on automating repetitive tasks, capturing data into a database, and providing analytics via a web app. The solutions typically take the form of a cloud platform infrastructure for the database and serverless functions, and a web app for the users to view their analytics, and to view and edit their data. I pride myself on reducing costs for my clients by understanding their requirements and finding the simplest solutions that most directly meet those requirements, avoiding expensive software that has many more features than required.
 
 * 🌍  I'm based in Cape Town
-* ✉️  You can contact me at [steven@dashedintelligent.com](mailto:steven@dashedintelligent.com)
+* ✉️  You can contact me at [steven@dashedintelligent.com](mailto:info@dashedintelligent.com)
 
 ### Skills
 
